@@ -2,7 +2,8 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/CaveriiN/Alura/blob/main/assets/Inicial.png)
+<img src= "/assets
+/Inicial.png">
 
 ## Ferramentas utilizadas:
 
