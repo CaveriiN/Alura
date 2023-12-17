@@ -1,9 +1,8 @@
-```
+
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-<img src= "/assets
-/Inicial.png">
+<img src="assets/Inicial.png">
 
 ## Ferramentas utilizadas:
 
@@ -19,4 +18,4 @@
 
 ### Linkedin: [https://www.linkedin.com/](https://www.linkedin.com/in/felipe-abreu-083159121/)https://www.linkedin.com/in/felipe-abreu-083159121/
 
-```
+
