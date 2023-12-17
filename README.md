@@ -1,7 +1,7 @@
 
 
 # Portfólio 
-Olá, Bem vindo ao meu projeto de portfólio.
+## Olá, Bem vindo ao meu projeto de portfólio.
 
 <img src="assets/Inicial.png">
 
